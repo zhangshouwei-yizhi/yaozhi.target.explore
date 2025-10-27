@@ -49,6 +49,14 @@ $ python3 scriptpath/bin/yaozhi.ADC.infocraw.py \
 ```
 **上述代码会生成ADC所有药物的信息**
 
+## RDC药物查询运行示例
+```bash
+$ python3 scriptpath/bin/yaozhi.RDC.infocraw.py \
+	--odir outputpath
+```
+**上述代码会生成RDC所有药物的信息**
+
+
 
 
 
